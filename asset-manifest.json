@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/nekopi_website/static/css/main.c4265a48.css",
+    "main.js": "/nekopi_website/static/js/main.232f510e.js",
+    "static/media/p1_two_cat.jpeg": "/nekopi_website/static/media/p1_two_cat.c963ba4e6cc83b6cde48.jpeg",
+    "static/media/p5_blackumbrella.png": "/nekopi_website/static/media/p5_blackumbrella.071c2341cfd99a53ba2c.png",
+    "static/media/p5_whiteumbrella.png": "/nekopi_website/static/media/p5_whiteumbrella.cc7db219cf16d15fb421.png",
+    "static/media/p2_cover.webp": "/nekopi_website/static/media/p2_cover.6063dc5f01e7199f6128.webp",
+    "static/media/p2_blackcat.png": "/nekopi_website/static/media/p2_blackcat.895d4d8fb58073c84cd0.png",
+    "static/media/p6.png": "/nekopi_website/static/media/p6.f043ffa84c63fab88184.png",
+    "static/media/p3_whiteumberlla.jpeg": "/nekopi_website/static/media/p3_whiteumberlla.f0954388d53e6c55a9a2.jpeg",
+    "static/media/p2_whitecat.png": "/nekopi_website/static/media/p2_whitecat.3dcca62772c1b90d1741.png",
+    "static/media/p1_illustration.webp": "/nekopi_website/static/media/p1_illustration.ebacbc81fa7495b77820.webp",
+    "static/media/p3_umberalla.jpeg": "/nekopi_website/static/media/p3_umberalla.92e887f0466c9b4f1413.jpeg",
+    "static/media/p2_bg.jpeg": "/nekopi_website/static/media/p2_bg.5f9e0dfbf0b4f2911a56.jpeg",
+    "static/media/nekopi.svg": "/nekopi_website/static/media/nekopi.3eaaba99ef5cad1a5b38333abbfcb6c6.svg",
+    "static/media/p3_whitetail.png": "/nekopi_website/static/media/p3_whitetail.2a58d3140b129062eab4.png",
+    "static/media/p3_feelssogood.svg": "/nekopi_website/static/media/p3_feelssogood.03ac9be8e0c68220e56e.svg",
+    "static/media/p4_blacktail.png": "/nekopi_website/static/media/p4_blacktail.b3efd4b518e92ffdd7c5.png",
+    "static/media/p3_sunny.svg": "/nekopi_website/static/media/p3_sunny.03896474d631fb24440a.svg",
+    "static/media/p3_rainy.svg": "/nekopi_website/static/media/p3_rainy.173d970ec21cd20917ce.svg",
+    "static/media/loading_black.png": "/nekopi_website/static/media/loading_black.91502512f689616604c5.png",
+    "static/media/p4_blackcat.png": "/nekopi_website/static/media/p4_blackcat.91502512f689616604c5.png",
+    "static/media/loading_white.png": "/nekopi_website/static/media/loading_white.15ae516d2770153aa41b.png",
+    "static/media/p4_30degree.svg": "/nekopi_website/static/media/p4_30degree.18385dc0d0828afdda607dd699ca6b00.svg",
+    "static/media/p4_-30degree.svg": "/nekopi_website/static/media/p4_-30degree.84d30d5a732e169075f81e8937eaee16.svg",
+    "static/media/p4_90degree.svg": "/nekopi_website/static/media/p4_90degree.3fabb2684023b0201526198c4a55b4a1.svg",
+    "static/media/p4_-60degree.svg": "/nekopi_website/static/media/p4_-60degree.ef0267b249e5fb6a70669d1336b83d5e.svg",
+    "static/media/p4_60degree.svg": "/nekopi_website/static/media/p4_60degree.8e795f175f563c221dc314a6a2cbf677.svg",
+    "static/media/p4_0degree.svg": "/nekopi_website/static/media/p4_0degree.c03f984b0e37d5221d7d5631e8040e6b.svg",
+    "index.html": "/nekopi_website/index.html",
+    "main.c4265a48.css.map": "/nekopi_website/static/css/main.c4265a48.css.map",
+    "main.232f510e.js.map": "/nekopi_website/static/js/main.232f510e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4265a48.css",
+    "static/js/main.232f510e.js"
+  ]
+}
