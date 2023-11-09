@@ -1,0 +1,56 @@
+.loading {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.loading_1 {
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.loading_1_animate {
+  animation: pic_opacity 2s linear;
+}
+
+.pic2 {
+  margin: 0 2vw;
+  width: 20vw;
+}
+
+
+
+@keyframes pic_opacity {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+
+
+  }
+}
+
+.pic_animate {
+  animation: pic_rotate 0.5s steps(2, jump-none) infinite, pic_opacity 2s linear;
+}
+
+@keyframes pic_rotate {
+  0% {
+    transform: rotate(0deg);
+
+  }
+
+  100% {
+    transform: rotate(10deg);
+
+
+
+  }
+}

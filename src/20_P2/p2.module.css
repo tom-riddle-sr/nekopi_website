@@ -1,0 +1,183 @@
+@media screen and (max-width:768px) {
+
+  .container_p2 {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    justify-content: center;
+    width: 100vw;
+  }
+
+  .container_p2::after {
+    content: "";
+    background-image: url("../Assets/nekopi.svg");
+    width: 40%;
+    height: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+    position: absolute;
+    top: -90vh;
+    left: 5vw;
+
+  }
+
+  .p1 {
+    color: white;
+    font-size: 5vw;
+    position: absolute;
+    top: 7vh;
+    line-height: 4vh;
+    left: 30vw;
+    width: 44vw;
+    text-align: center;
+
+  }
+
+  .container2 {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20vh;
+    position: relative;
+  }
+
+  .whitecat,
+  .blackcat {
+    width: 40vw;
+  }
+
+  .container2_2 {
+    width: fit-content;
+    top: 0;
+    overflow: hidden;
+    position: relative;
+  }
+
+  .container2_1,
+  .container2_3 {
+    position: absolute;
+    top: -15vh;
+  }
+
+  .container2_1 {
+    left: -5vw;
+  }
+
+  .container2_3 {
+    right: -5vw;
+  }
+
+  .bg {
+    width: 80vw;
+    border-radius: 50px;
+  }
+
+
+  .container_p2::after {
+    content: "";
+    background-image: url("../Assets/nekopi.svg");
+    width: 50%;
+    height: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+    position: absolute;
+    top: -26vh;
+    left: 25vw;
+
+  }
+
+  .container2_2::after {
+    content: "";
+    background-image: url("../Assets/p2_cover.webp");
+    background-size: contain;
+    width: 120%;
+    height: 180%;
+    position: absolute;
+    border-radius: 200px;
+    background-repeat: no-repeat;
+    top: 0;
+    right: 0;
+
+  }
+
+}
+
+@media screen and (min-width:768px) {
+
+  .container_p2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin-bottom: 20vh;
+  }
+
+  .container_p2::after {
+    content: "";
+    background-image: url("../Assets/nekopi.svg");
+    width: 40%;
+    height: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+    position: absolute;
+    top: -55vh;
+  }
+
+  .p1 {
+    color: white;
+    font-size: 2vw;
+    position: absolute;
+    top: 30vh;
+  }
+
+  .container2 {
+    display: flex;
+    align-items: center;
+    width: 100vw;
+    justify-content: center;
+    padding-top: 60vh;
+    position: relative;
+
+  }
+
+  .bg {
+    width: 50vw;
+    border-radius: 100px;
+  }
+
+  .container2_2 {
+    position: relative;
+    width: fit-content;
+    margin: 0 5vw;
+    overflow: hidden;
+    border-radius: 100px;
+
+
+  }
+
+  .container2_2::after {
+    content: "";
+    background-image: url("../Assets/p2_cover.webp");
+    background-size: contain;
+    width: 120%;
+    height: 180%;
+    overflow: hidden;
+    position: absolute;
+    background-repeat: no-repeat;
+    top: 0;
+    right: 0;
+
+  }
+
+  .whitecat,
+  .blackcat {
+    width: 20vw;
+  }
+
+
+}
